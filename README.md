@@ -21,4 +21,6 @@ To select the helper plane and the line, one should move the cursor to the desir
       'f'     flip the triangular
       'a'     accept the triangular
 
+An illustration can be found: https://www.dropbox.com/l/scl/AABWu7OeNq-Mka7IPfUznum8Q6_DBJ4OR5g
+
 Copyright (C), Februari 2019, Jan de Nijs
