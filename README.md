@@ -1,6 +1,6 @@
 # SurveillanceCamera
 
-Our home has a small front garden. During our past summer holidays we were warned that a gang of criminels was checking whether the residents were on holidays or not. The sealed the front door with some tape and checked whether the seal was broken or not after a few days. Lukely, our neighbours checked our home too and removed the tape.
+Our home has a small front garden. During our past summer holidays we were warned that a gang of criminels was checking whether the residents were on holidays. They sealed the front door with some tape and checked the seal after a few days. Lukely, our neighbours  removed the tape for us.
 
 This incident has inspired me to develop a smart surveillance camera, one that only records people entering our front garden. To do so, I bought a Intel Realsense camera D435 which can measure the depth using a stereoscopic infrared camera. To match the left and rights images, the camera is equipped with an infrared transmitter that emits a pattern dots on the viewed area.
 
